@@ -3,7 +3,6 @@ using Xunit;
 using System.Linq;
 using System.Collections.Generic;
 
-// TEST ID: 23280666291897
 // array, list                  https://docs.microsoft.com/en-us/previous-versions/ms379570%28v%3dvs.80%29
 // queue, stack, hashset        https://docs.microsoft.com/en-us/previous-versions/ms379571%28v%3dvs.80%29
 // binary trees                 https://docs.microsoft.com/en-us/previous-versions/ms379572%28v%3dvs.80%29
